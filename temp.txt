@@ -1,0 +1,152 @@
+<table>
+		<b>
+		<thead>
+			<tr>
+				<td>Food's:</td>
+				<td>Price's:</td>
+				<td></td>
+				<td></td>
+				<td>Food's:</td>
+				<td>Price's:</td>
+				<td></td>
+				<td></td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td class="tdCls">1.Juice:</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>>Apple</td>
+				<td>70 Rs.</td>
+				<td>>Mango</td>
+				<td>70 Rs.</td>
+				<td class="tdCls">>soups:</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+			<tr>
+			</tr>
+			<tr>
+				<td>>coconut water</td>
+				<td>90 Rs.</td>
+				<td>>peach</td>
+				<td>75 Rs.</td>
+
+				<td>> chicken-noodle-soup</td>
+				<td>40 Rs.</td>
+				<td>> tortilla soup</td>
+				<td>55 Rs.</td>
+			</tr>
+			<tr>
+			</tr>
+			<tr>
+				<td>>blueberry</td>
+				<td>85 Rs.</td>
+				<td></td>
+				<td></td>
+
+				<td>>Cream Soups</td>
+				<td>40 Rs.</td>
+				<td>>chowder</td>
+				<td>55 Rs.</td>
+			</tr>
+			<tr>
+				<td class="tdCls">2.Vegetarian-Food's:</td>
+				<td></td>
+			</tr>
+				<tr>
+				<td>>Chhole Bhature</td>
+				<td>110 Rs.</td>
+				<td>>Carrot Curry</td>
+				<td>130 Rs.</td>
+
+				<td>>slow cooker soup</td>
+				<td>30 Rs.</td>
+				<td>>bean and pea soup</td>
+				<td>45 Rs.</td>
+			</tr>
+			<tr>
+			</tr>
+			<tr>
+				
+				<td>>veg-Biryaani</td>
+				<td>180 Rs.</td>
+				<td>>spinach curry</td>
+				<td>200 Rs.</td>
+
+				<td>>beef soup</td>
+				<td>40 Rs.</td>
+				<td>>chicken soup</td>
+				<td>75 Rs.</td>
+			</tr>
+			<tr>
+			</tr>
+			<tr>
+				<td>>malai kofta</td>
+				<td>70 Rs.</td>
+				<td>>Palak paneer</td>
+				<td>70 Rs.</td>
+			</tr>
+			<tr>
+			</tr>
+			<tr>
+				<td>>rajma</td>
+				<td>150 Rs.</td>
+				<td>> </td>
+				<td> </td>
+			</tr>
+			<tr>
+				<td class="tdCls">3.Junk Food's</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>>samosa</td>
+				<td>50 Rs.</td>
+				<td>>kachhori</td>
+				<td>50 Rs.</td>
+			</tr>
+			<tr>
+			</tr>
+			<tr>
+				<td>>pani-puri</td>
+				<td>50 Rs.</td>
+				<td>>pakora</td>
+				<td>30 Rs.</td>
+			</tr>
+			<tr>
+			</tr>
+			<tr>
+				<td class="tdCls">4.Non-vegetarian-Food's</td>
+				<td></td>
+			</tr>
+			<tr>
+				<td>>Haleem</td>
+				<td>230 Rs.</td>
+				<td>>tunde kabab</td>
+				<td>250 Rs.</td>
+			</tr>
+			<tr>
+			</tr>
+			<tr>
+				<td>>keema matar</td>
+				<td>250 Rs.</td>
+				<td>>rogan josh</td>
+				<td>260 Rs.</td>
+			</tr>
+			<tr>
+			</tr>
+			<tr>
+				<td>>checken-tikka</td>
+				<td>270 Rs.</td>
+				<td>>fish-fry</td>
+				<td>290 Rs.</td>
+			</tr>
+			<tr>
+			</tr>
+			
+		</tbody>
+	</b></table>
+</body>

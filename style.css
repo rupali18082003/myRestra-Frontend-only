@@ -1,0 +1,66 @@
+body{
+	background-image: linear-gradient(to top left, lightblue 0%, pink 100%);
+	/*background-size: cover;*/
+}
+.name{
+	text-align: center;
+}
+
+.center{
+	text-align: center;
+	margin-top: 14%;
+}
+.center-m{
+	margin-top:20px;
+	text-align: center;
+}
+.menu{
+	padding: 30px;
+}
+.order{
+	color: red;
+}
+.bill{
+	margin: 30px;
+	margin-top: 0px;
+	height: 200px;
+	margin-bottom: 0px;
+}
+#spn{
+	border: 1px solid white;
+	margin: 74px;
+	margin-top: 20px;
+	padding: 20px;
+}
+.crd{
+	text-align: center;
+}
+.crd img{
+	height: 170px;
+	width: 170px;
+	margin: auto;
+	margin-top: 10px;
+}
+.bottom{
+	margin-top: 100%;
+}
+.bground{
+	width: 100%;
+	height: 580px;
+	background-image: url(img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	border: none;
+}
+.bground h1{
+	font-size: 96px;
+	text-shadow: 2px 2px 2px black;
+}
+.br{
+	display: inline-block;
+	margin: 5.7%;
+	padding: 23px;
+	border: none;
+	color: white;
+
+}
