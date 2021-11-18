@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+    <link rel="icon" type="image/jpg" href="img/restra.jpg">
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <script defer src="admin.js"></script>
+    <title>admin panel|MyRestra</title>
+  </head>
+  <body id="adminBody">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">
+          <img src="img/restra.jpg" alt="" width="30" height="24" class="d-inline-block align-text-top">
+        MyRestra
+        </a>
+      </div>
+    </nav>  
+    <div class="name">
+      <h1  id="name-center">ADMIN PANEL</h1>
+    </div>
+    <div class="area my-4 mx-5 py-5 px-5">
+      <form>
+      <div class="mb-3">
+        <label for="addFoodName" class="form-label">Food Name</label>
+        <input type="text" class="form-control" id="addFoodName" placeholder="Enter Food Name" required="please enter food name">
+      </div>
+      <div class="mb-3">
+        <label for="addQuantity" class="form-label">Quantity</label>
+        <input type="number" class="form-control" id="addQuantity" placeholder="Enter quantity" required="please enter quantity">
+      </div>
+      <div class="mb-3">
+        <label for="addPr" class="form-label">Price</label>
+        <input type="number" class="form-control" id="addPrice" rows="3" required="please enter price"></input>
+      </div>
+    </form>
+      <button class="btn btn-dark" id="add">Add</button>
+      <button class="btn btn-dark" id="del">Delete</button>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+  </body>
+</html>
